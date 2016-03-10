@@ -1,0 +1,6 @@
+name: AntiGolemFarm
+author: Turqmelon
+version: 1.0
+main: com.turqmelon.AntiGolemFarm.AntiGolemFarm
+description: Prevents golems from receiving damage from lava, fire, and suffocation
+website: turqmelon.com
